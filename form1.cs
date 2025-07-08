@@ -7,7 +7,7 @@ namespace Zylith
             InitializeComponent();
         }
 
-        private void textBox7_TextChanged(object sender, EventArgs e)
+        private void textBoxTarget_TextChanged(object sender, EventArgs e)
         {
 
         }
